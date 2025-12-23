@@ -1,4 +1,4 @@
-# 1 INSTALLATION 
+# INSTALLATION WALRUS CLI
 
 ## 1. **Install via Script (Recommended for macOS & Linux)**
 
