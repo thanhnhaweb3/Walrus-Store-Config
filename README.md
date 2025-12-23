@@ -244,4 +244,8 @@ walrus store music.txt --epochs max --permanent
   ```sh
   walrus blob-status --file music.txt
   ```
+---
 
+# WALRUS DOCUMENT
+
+https://docs.wal.app/docs/usage/setup#configuration
